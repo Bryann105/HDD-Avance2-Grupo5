@@ -1,4 +1,4 @@
 PROYECTO HDD - AVANCE 2 - GRUPO 5
 Linea 2: CONFLICTO LOCAL RESUELTO (se unieron los cambios de la PC y de GitHub web)
-Linea 3: CAMBIO EN LA RAMA cambios-grupo5 (desde la PC)
+Linea 3: CONFLICTO REMOTO RESUELTO EN GITHUB WEB (se unieron los cambios de cambios-grupo5 y main)
 Linea 4: Version inicial del archivo
